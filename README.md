@@ -1,21 +1,77 @@
-# 💫 About Me:
-Looking  forward to work on Software Development
+<div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=334155&height=150&section=header&text=Ziad%20Alshorman&fontSize=50&fontAlignY=50&animation=fadeIn" width="100%" />
 
+  <p align="center">
+    <strong>Computer Science @ Dalhousie University</strong><br />
+    Software Developer • Game Dev Enthusiast • Problem Solver
+  </p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ziadalshorman) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zdalshorman@gmail.com) 
+  <div>
+    <a href="https://linkedin.com/in/ziadalshorman">
+      <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-334155?style=flat&logo=linkedin&logoColor=ffffff">
+    </a>
+    <a href="mailto:zdalshorman@gmail.com">
+      <img alt="Email" src="https://img.shields.io/badge/Email-334155?style=flat&logo=gmail&logoColor=ffffff">
+    </a>
+  </div>
+</div>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-# 📊 GitHub Stats:
-![](https://streak-stats.demolab.com/?user=zeus99900&theme=calm_pink&hide_border=true) ![](https://github-readme-stats.shion.dev/api/top-langs/?username=zeus99900&theme=calm_pink&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-<br/>
+<br />
 
+## 💫 About Me
+Third-year Computer Science student and Business minor at Dalhousie. I'm currently architecting **True Kingdom**, a procedural RTS/City-builder in Godot 4, and building utility-driven apps like **VibeDrive**.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+* 🔭 **Currently working on:** Procedural terrain generation and multi-agent AI systems.
+* 🛠️ **Hobbies:** DIY automotive repair (Pontiac Vibe enthusiast) and maintaining my planted community tank.
+* ⚡ **Aesthetic:** Prioritizing quality, clean architecture, and minimalist design.
 
 ---
-[![](https://komarev.com/ghpvc/?username=zeus99900&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💻 Tech Stack
+| Category | Tools & Languages |
+| :--- | :--- |
+| **Languages** | `Python` `Java` `C/C++` `JavaScript` `TypeScript` `Kotlin` |
+| **Frontend** | `React` `HTML5` `Tailwind CSS` |
+| **Backend** | `Node.js` `FastAPI` `Firebase` `MySQL` |
+| **AI / Data** | `TensorFlow` `PyTorch` `NumPy` `Pandas` |
+| **DevOps** | `Git` `Docker` `GitHub Actions` |
+
+---
+
+<details>
+  <summary><h2>📊 Statistics</h2></summary>
+  <br />
+  
+  <div align="center">
+    <img src="https://komarev.com/ghpvc/?username=zeus99900&style=flat&color=334155&label=Profile+Views" alt="Views" />
+    <br /><br />
+
+    <a href="https://github.com/zeus99900">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=zeus99900&layout=compact&show_icons=true&title_color=cbd5e1&icon_color=94a3b8&bg_color=0f172a&text_color=94a3b8&border_color=1e293b&count_private=true">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=zeus99900&layout=compact&count_private=true" />
+        <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeus99900&layout=compact" />
+      </picture>
+    </a>
+
+    <br />
+
+    <a href="https://github.com/zeus99900">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=zeus99900&show_icons=true&title_color=cbd5e1&icon_color=94a3b8&bg_color=0f172a&text_color=94a3b8&border_color=1e293b&count_private=true&ring_color=334155">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=zeus99900" />
+        <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=zeus99900" />
+      </picture>
+    </a>
+    
+    <br />
+    
+    <img src="https://streak-stats.demolab.com/?user=zeus99900&theme=dark&background=0f172a&ring=334155&fire=334155&currStreakNum=cbd5e1" alt="Streak" />
+  </div>
+</details>
+
+<br />
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" />
+</div>
